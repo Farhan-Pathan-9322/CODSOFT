@@ -2,6 +2,7 @@
 
 //take input Guessing number
 
+// Task 1st of Codsoft
 import java.util.Random;
 import java.util.Scanner;
 
