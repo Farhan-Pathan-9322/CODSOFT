@@ -1,5 +1,5 @@
 
-// Task 2nd Of Codsoft
+// Task 3rd Of Codsoft
 
 import java.util.Scanner;
 
